@@ -1,0 +1,14 @@
+{
+  "name": "simple-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "es-dev-server --app-index demo/index.html --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "es-dev-server": "1.56.1"
+  }
+}
